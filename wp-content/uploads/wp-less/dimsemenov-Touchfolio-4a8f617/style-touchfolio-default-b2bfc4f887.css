@@ -149,7 +149,7 @@ form input, form textarea {
   height:20px;
   margin-left:-10px;
   margin-top:-10px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/preloader.gif);
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/preloader.gif);
 }
 .two-dim-slider a.play-button-container {
   position:absolute;
@@ -184,7 +184,7 @@ form input, form textarea {
 .two-dim-slider .play-button .play-button-icon {
   width:64px;
   height:64px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -96px 0 transparent;
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -96px 0 transparent;
   display:block;
   float:left;
 }
@@ -193,7 +193,7 @@ form input, form textarea {
   display:block;
   float:left;
   height:64px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/preloader.gif) no-repeat center center transparent;
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/preloader.gif) no-repeat center center transparent;
 }
 .two-dim-slider .play-button.play-button-loading .play-icons-wrap { margin-left:-64px; }
 .two-dim-slider .play-button .play-icons-wrap {
@@ -258,7 +258,7 @@ form input, form textarea {
   margin:0;
   width:32px;
   height:32px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -64px -32px;
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -64px -32px;
   background-color:#ffffff;
   display:block;
 }
@@ -370,7 +370,7 @@ form input, form textarea {
   margin:8px 0 0 8px;
   width:32px;
   height:31px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png);
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png);
   background-color:#ffffff;
   -webkit-transition:all .3s ease-in-out;
   -moz-transition:all .3s ease-in-out;
@@ -424,7 +424,7 @@ form input, form textarea {
   height:32px;
   float:right;
   text-indent:-9999px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -64px 0 transparent;
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -64px 0 transparent;
   background-color:#ffffff;
   text-decoration:none;
   border:0;
@@ -433,8 +433,8 @@ form input, form textarea {
 .two-dim-slider.smaller-collapsed-slider .slider-album-indicator .item-count-indicator { display:none; }
 .two-dim-slider.smaller-collapsed-slider .slider-album-indicator .album-info-block { display:block; }
 .two-dim-slider.smaller-collapsed-slider .video-overlay .video-container { margin:0; }
-.two-dim-slider .grab-cursor { cursor:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/grab.png) 8 8, move; }
-.two-dim-slider .grabbing-cursor { cursor:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/grabbing.png) 8 8, move; }
+.two-dim-slider .grab-cursor { cursor:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/grab.png) 8 8, move; }
+.two-dim-slider .grabbing-cursor { cursor:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/grabbing.png) 8 8, move; }
 .two-dim-slider .auto-cursor { cursor:auto; }
 .two-dim-slider .slider-album-indicator { padding-bottom:0 !important; }
 .album-info-block {
@@ -473,7 +473,7 @@ form input, form textarea {
 a.pin-it-btn, a.facebook-share-btn {
   width:43px;
   height:21px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -192px 0 transparent;
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -192px 0 transparent;
   display:block;
   border:0;
   cursor:pointer;
@@ -812,7 +812,7 @@ a.menu-button:hover {
   height:12px;
   line-height:12px;
   vertical-align:text-top;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat;
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat;
   background-position:-170px -9px;
   -webkit-transition:background-position .3s ease-in-out;
   -moz-transition:background-position .3s ease-in-out;
@@ -846,7 +846,7 @@ a.menu-button:hover {
   height:17px;
   float:right;
   margin-top:6px;
-  background:url(/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -170px -10px;
+  background:url(http://verashur.com/wp-content/themes/dimsemenov-Touchfolio-4a8f617/img/touchfolio-sprite-default.png) no-repeat -170px -10px;
 }
 .mobile-menu .customStyleSelectBox {
   display:block;

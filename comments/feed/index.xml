@@ -6,13 +6,13 @@
 	
 	>
 <channel>
-	<title>Comments for Vera Shur | Portfolio &#187; Vera Shur | Portfolio</title>
+	<title>Comments for Vera Shur | Portfolio</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Vera Shur&#039;s Design Portfolio</description>
-	<lastBuildDate></lastBuildDate>
+	<lastBuildDate>Sun, 02 Jul 2017 01:42:50 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=4.2.3</generator>
+	<generator>https://wordpress.org/?v=4.8</generator>
 </channel>
 </rss>
